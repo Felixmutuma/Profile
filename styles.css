@@ -1,0 +1,9 @@
+.grid-container{
+    display: grid;
+    align-self: center;
+    justify-content: center;
+}
+body{
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
